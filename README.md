@@ -1,6 +1,7 @@
 # Branch Prediction
+模擬Branch Prediction系統，印出所有在預測時的狀態。
 ## 如何運行
-編譯後使用傳參數的執行方式，傳入參數 - 檔名，之後選定BHT(Bits History Table)的entry大小
+編譯後使用傳參數的執行方式，傳入參數 - 檔名，之後選定BHT(Bits History Table)的entry大小。
 ### 範例
 假如程式編譯為 main.exe，傳入的檔案為test.txt
 
